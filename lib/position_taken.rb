@@ -7,5 +7,3 @@ argument = board[index_num]
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-
-position_taken?(board,index_num)
