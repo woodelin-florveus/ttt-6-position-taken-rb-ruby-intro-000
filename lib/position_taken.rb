@@ -4,9 +4,9 @@ def position_taken?(board,index_num)
 
 
 
-if board == " "
+if board[index_num] == " "
   return false
-elsif  board[index_num] == "X"
+else
   return true
 end
 
