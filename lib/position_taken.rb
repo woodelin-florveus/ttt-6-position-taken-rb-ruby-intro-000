@@ -2,6 +2,8 @@
 
 def position_taken(board,position)
 
+argument = board[position]
+
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
