@@ -6,7 +6,7 @@ def position_taken?(board,index_num)
 
 if board[index_num] == " "
   return false
-elsif argument == "X"
+elsif  board[index_num] == "X"
   return true
 end
 
