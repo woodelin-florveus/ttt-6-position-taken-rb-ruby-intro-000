@@ -2,12 +2,12 @@
 
 def position_taken?(board,index_num)
 
-argument = board[index_num]
 
-if argument == " "
+
+if board[index_num] == " "
   return false
 elsif argument == "X"
-  return true 
+  return true
 end
 
 end
