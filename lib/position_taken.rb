@@ -4,6 +4,9 @@ def position_taken?(board,index_num)
 
 argument = board[index_num]
 
+if argument == " " 
+end
+
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
